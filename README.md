@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Niclas Winsa @Winsasdata
 - 👀 I’m interested in GoogleWorkspace and GAM
-- 🌱 I’m currently learning the lifecycle of life
+- 👀 I´m also in to IAM stuff, currently working vith IDM, IGA & PAM
+- 🌱 I’m also currently learning the lifecycle of life
 - 💞️ I’m looking to collaborate on all fun stuff in the world
 - 📫 How to reach me check att @nicwin70
 
